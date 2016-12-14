@@ -122,6 +122,8 @@ input {
   img {
     width: 100%;
     display: flex;
+    min-height: 300px;
+    min-width: 300px;
   }
 }
 .album-info {
